@@ -6,7 +6,7 @@ Public Domain Works by Eugen Heinrich Schmitt (1851-1916).
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text]()  
+[German - Plain Text](nietzsche-grenzscheide-zweier-weltalter/full-text-german.md)  
 German - PDF  
 
 ## Die Gnosis.
@@ -20,7 +20,7 @@ German - PDF
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text]()  
+German - Plain Text  
 German - PDF  
 
 ## Anarchie.
