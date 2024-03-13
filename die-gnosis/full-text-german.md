@@ -1,4 +1,6 @@
-# Die Gnosis. Grundlagen der Weltanschauung einer edleren Kultur.
+# Die Gnosis. 
+
+## Grundlagen der Weltanschauung einer edleren Kultur.
 
 ##
 
