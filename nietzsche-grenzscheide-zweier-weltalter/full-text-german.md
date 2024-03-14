@@ -1,12 +1,12 @@
-# Friedrich Nietzsche an der Grenzscheide zweier Weltalter
+# Friedrich Nietzsche an der Grenzscheide zweier Weltalter.
 
-## Versuch einer Beleuchtung durch eine neue Weltanschauung
+## Versuch einer Beleuchtung durch eine neue Weltanschauung.
 
-## Von Dr. Eugen Heinrich Schmitt
+## Von Dr. Eugen Heinrich Schmitt.
 
-### Leipzig 1902
+### Leipzig 1902.
 
-#### Verlegt bei Eugen Diederichs
+#### Verlegt bei Eugen Diederichs.
 
 ---
 
