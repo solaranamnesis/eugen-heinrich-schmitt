@@ -2,7 +2,7 @@
 
 ## Grundlagen der Weltanschauung einer edleren Kultur.
 
-### Band 1. 
+### 1. Band. 
 
 ### Die Gnosis des Altertums.
 
