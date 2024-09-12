@@ -12,6 +12,8 @@
 \usepackage[top=40mm, bottom=58mm, outer=50mm, inner=50mm]{geometry}
 \setlength{\columnsep}{90pt}
 
+\definecolor{customColor}{RGB}{213, 246, 251}
+
 \usepackage{sectsty}
 \usepackage[titles]{tocloft}
 
@@ -33,10 +35,10 @@
 % change color of text, example replace all \color{Goldenrod} with \color{lightgray}
 
 \makeatletter % change only the display of \thepage, but not \thepage itself:
-\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{Cerulean}{\thepage}}{}{}
+\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{customColor}{\thepage}}{}{}
 \makeatother
 
-\color{BrickRed}
+\color{customColor}
 
 \begin{document}
 \Fontauri
